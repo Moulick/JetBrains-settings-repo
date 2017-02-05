@@ -6,16 +6,16 @@
         <entry key="_license" value="1.1" />
         <entry key="_nb_ext_conf" value="0.3.0" />
         <entry key="_windows" value="1.0" />
-        <entry key="accelerate" value="2.3.0" />
+        <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
         <entry key="alabaster" value="0.7.9" />
         <entry key="alpaca_static" value="1.5.22" />
-        <entry key="anaconda" value="4.2.0" />
+        <entry key="anaconda" value="4.3.0" />
         <entry key="anaconda-build" value="1.15.0" />
         <entry key="anaconda-clean" value="1.1.0" />
-        <entry key="anaconda-client" value="1.6.0" />
-        <entry key="anaconda-navigator" value="1.3.2" />
+        <entry key="anaconda-client" value="1.6.1" />
+        <entry key="anaconda-navigator" value="1.4.3" />
         <entry key="anaconda-verify" value="1.3.2" />
         <entry key="ansi2html" value="1.1.1" />
         <entry key="appdirs" value="1.4.0" />
@@ -85,9 +85,9 @@
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.8" />
+        <entry key="conda" value="4.3.9" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.2" />
+        <entry key="conda-build" value="2.1.3" />
         <entry key="conda-build-all" value="1.0.1" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -99,7 +99,7 @@
         <entry key="configparser" value="3.5.0" />
         <entry key="console_shortcut" value="0.1.1" />
         <entry key="constantly" value="15.1.0" />
-        <entry key="constructor" value="1.5.2" />
+        <entry key="constructor" value="1.5.3" />
         <entry key="contextlib2" value="0.5.4" />
         <entry key="continuum-docs" value="2.0.4" />
         <entry key="cookies" value="2.2.1" />
@@ -555,6 +555,7 @@
         <entry key="numpy" value="1.11.3" />
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
+        <entry key="olefile" value="0.44" />
         <entry key="openjdk" value="8.17.0.3" />
         <entry key="openpyxl" value="2.4.1" />
         <entry key="openssl" value="1.0.2k" />
@@ -595,14 +596,14 @@
         <entry key="pkginfo" value="1.4.1" />
         <entry key="plac" value="0.9.6" />
         <entry key="plotly" value="1.12.9" />
-        <entry key="ply" value="3.9" />
+        <entry key="ply" value="3.10" />
         <entry key="posix" value="1.0.0" />
         <entry key="postgresql" value="9.5.4" />
         <entry key="progressbar" value="2.3" />
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.9" />
         <entry key="pscp" value="0.65" />
-        <entry key="psutil" value="5.0.1" />
+        <entry key="psutil" value="5.1.2" />
         <entry key="psycopg2" value="2.6.2" />
         <entry key="py" value="1.4.32" />
         <entry key="pyamg" value="2.2.1" />
@@ -752,7 +753,7 @@
         <entry key="vincent" value="0.4.4" />
         <entry key="virtualenv" value="15.0.3" />
         <entry key="vispy" value="0.4.0.106.gf8a69d0" />
-        <entry key="vs2008_runtime" value="9.00.30729.1" />
+        <entry key="vs2008_runtime" value="9.00.30729.5054" />
         <entry key="vs2010_runtime" value="10.00.40219.1" />
         <entry key="vs2013_runtime" value="12.0.21005" />
         <entry key="vs2015_runtime" value="14.0.25123" />
@@ -773,7 +774,7 @@
         <entry key="wrapt" value="1.10.8" />
         <entry key="wtforms" value="2.1" />
         <entry key="wxpython" value="3.0" />
-        <entry key="xarray" value="0.8.2" />
+        <entry key="xarray" value="0.9.1" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
         <entry key="xlsxwriter" value="0.9.6" />
@@ -857,6 +858,7 @@
               <option value="1.12.0" />
               <option value="1.10.0" />
               <option value="1.7.0" />
+              <option value="2.3.1" />
             </list>
           </value>
         </entry>
@@ -920,6 +922,7 @@
               <option value="1.9.2" />
               <option value="1.6.1" />
               <option value="4.1.1" />
+              <option value="4.3.0" />
             </list>
           </value>
         </entry>
@@ -966,6 +969,7 @@
               <option value="1.1.2" />
               <option value="1.5.2" />
               <option value="1.6.0" />
+              <option value="1.6.1" />
             </list>
           </value>
         </entry>
@@ -979,6 +983,7 @@
               <option value="1.3.2" />
               <option value="1.2.2" />
               <option value="1.2.1" />
+              <option value="1.4.3" />
             </list>
           </value>
         </entry>
@@ -1910,6 +1915,7 @@
               <option value="4.3.8" />
               <option value="4.3.7" />
               <option value="4.2.16" />
+              <option value="4.3.9" />
             </list>
           </value>
         </entry>
@@ -1995,6 +2001,7 @@
               <option value="2.1.0" />
               <option value="2.1.1" />
               <option value="2.1.2" />
+              <option value="2.1.3" />
             </list>
           </value>
         </entry>
@@ -2120,6 +2127,7 @@
               <option value="1.4.1" />
               <option value="1.5.1" />
               <option value="1.5.2" />
+              <option value="1.5.3" />
             </list>
           </value>
         </entry>
@@ -6148,6 +6156,13 @@
             </list>
           </value>
         </entry>
+        <entry key="olefile">
+          <value>
+            <list>
+              <option value="0.44" />
+            </list>
+          </value>
+        </entry>
         <entry key="openjdk">
           <value>
             <list>
@@ -6580,6 +6595,7 @@
               <option value="3.7" />
               <option value="3.9" />
               <option value="3.8" />
+              <option value="3.10" />
             </list>
           </value>
         </entry>
@@ -6659,6 +6675,7 @@
               <option value="2.2.0" />
               <option value="3.2.0" />
               <option value="5.0.1" />
+              <option value="5.1.2" />
             </list>
           </value>
         </entry>
@@ -8293,6 +8310,7 @@
           <value>
             <list>
               <option value="9.00.30729.1" />
+              <option value="9.00.30729.5054" />
             </list>
           </value>
         </entry>
@@ -8485,6 +8503,7 @@
               <option value="0.7.2" />
               <option value="0.7.1" />
               <option value="0.8.2" />
+              <option value="0.9.1" />
             </list>
           </value>
         </entry>
@@ -8697,6 +8716,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1485675774425" />
+    <option name="LAST_TIME_CHECKED" value="1486317867486" />
   </component>
 </application>
