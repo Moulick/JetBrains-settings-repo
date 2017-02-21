@@ -3,4 +3,8 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
