@@ -4,10 +4,6 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f10" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
@@ -19,8 +15,9 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="IpnbRunAllCellsAction">
+  <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
