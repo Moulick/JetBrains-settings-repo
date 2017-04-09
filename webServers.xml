@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2aa79200-f3aa-429c-ac16-c3713bcdc6c5" name="my server" url="http://reddit-flask.duckdns.org">
+        <fileTransfer host="128.199.102.68" port="22" privateKey="D:\MoulickKeyPr.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
