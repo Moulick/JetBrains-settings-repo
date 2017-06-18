@@ -1,8 +1,8 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.3333334" />
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.5" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Operator SSm Book" />
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
@@ -11,6 +11,7 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
