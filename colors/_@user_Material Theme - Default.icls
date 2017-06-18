@@ -4,12 +4,12 @@
     <property name="created">2017-06-16T18:34:04</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-16T19:19:34</property>
+    <property name="modified">2017-06-18T10:56:28</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
