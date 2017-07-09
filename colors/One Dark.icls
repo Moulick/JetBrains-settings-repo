@@ -2,9 +2,8 @@
   <option name="FONT_SCALE" value="1.0833334" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono for Powerline" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
