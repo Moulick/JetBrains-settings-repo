@@ -13,7 +13,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
