@@ -1,17 +1,23 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.3333334" />
   <metaInfo>
     <property name="created">2016-10-16T18:01:55</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2017-04-05T17:35:43</property>
+    <property name="modified">2017-06-18T15:40:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Letter Gothic Std" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="7f00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />

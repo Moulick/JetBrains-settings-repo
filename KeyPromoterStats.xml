@@ -1,0 +1,21 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+1'" value="1" />
+        <entry key="'Alt+Delete'" value="2" />
+        <entry key="'Alt+Insert'" value="2" />
+        <entry key="'Alt+Shift+F10'" value="2" />
+        <entry key="'Ctrl+Alt+I'" value="1" />
+        <entry key="'Ctrl+Alt+L'" value="1" />
+        <entry key="'Ctrl+Alt+S'" value="6" />
+        <entry key="'Ctrl+Alt+Y'" value="2" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
+        <entry key="'Ctrl+F2'" value="4" />
+        <entry key="'Ctrl+F5'" value="1" />
+        <entry key="'Delete'" value="1" />
+        <entry key="'Shift+F10' or 'F5'" value="8" />
+      </map>
+    </option>
+  </component>
+</application>

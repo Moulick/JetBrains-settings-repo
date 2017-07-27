@@ -30,15 +30,18 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.16.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true" />
+      <artifact name="PostgreSQL" use="true" version="42.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
@@ -50,12 +53,13 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <artifact name="JTOpen (DB2 iSeries)" use="true" version="8.3" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
       <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.35" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <property name="autoReconnect" value="true" />
