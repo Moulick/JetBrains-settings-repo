@@ -1,10 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0833334" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono for Powerline" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
@@ -45,7 +44,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="743d3d" />
+        <option name="BACKGROUND" value="e74" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
