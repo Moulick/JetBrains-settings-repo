@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[another Django Project] - .../mysite/music/templates/music/index.html'" />
-    <option name="defaultScopeName" value="File '[another Django Project] - .../mysite/music/templates/music/index.html'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[another Django Project] - .../mysite/music/templates/music/index.html'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
