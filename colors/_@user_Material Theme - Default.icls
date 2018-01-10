@@ -1,23 +1,26 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.3333334" />
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2017-06-16T18:34:04</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-18T15:25:46</property>
+    <property name="modified">2018-01-10T22:27:41</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.3" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Mono for Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
