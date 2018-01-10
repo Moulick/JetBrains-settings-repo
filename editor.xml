@@ -1,7 +1,10 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_SCALE" value="1.25" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="LINE_SPACING" value="1.1" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -14,13 +17,5 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" autoDelay="0" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="0" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="0" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
