@@ -1,9 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="NONE" />
+    <option name="version" value="1.5.3.2" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="isMaterialDesign" value="false" />
-    <option name="wallpaperSet" value="false" />
     <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="statusBarTheme" value="false" />
